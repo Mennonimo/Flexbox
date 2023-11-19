@@ -1,0 +1,109 @@
+body {
+    background-color: rgb(60, 59, 66);
+    margin: 0px;
+}
+.header {
+    position: relative;
+    display: flex;
+    left: 0px;
+    background-color: rgb(29, 29, 29);
+    color: white;
+    height: 130px;
+    align-items: center;
+}
+.logo img {
+    width: 100px;
+}
+.container {
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+.nav {
+    display: flex;
+    font-family: arial;
+    font-weight: bold;
+    flex-grow: 2;
+}
+a {
+    margin-left: 100px;
+    color: white;
+    text-decoration: none;
+    font-size: 200%;
+    background-color: rgb(212, 41, 41);
+    border-radius: 10px;
+}
+.container img {
+    width: 300px;
+    height: 300px;
+}
+.itemimg1 {
+    border: 5px solid rgb(255, 0, 0);
+    border-radius: 3px;
+    outline: 5PX solid rgb(100, 2, 2);
+    background-color: rgb(46, 46, 46);
+    color: white;
+    font-family: arial;
+    text-align: center;
+
+}
+.itemimg2 {
+    border: 5px solid rgb(255, 0, 0);
+    border-radius: 3px;
+    outline: 5PX solid rgb(100, 2, 2);
+    background-color: rgb(46, 46, 46);
+    color: white;
+    font-family: arial;
+    text-align: center;
+
+}
+.itemimg3 {
+    border: 5px solid rgb(255, 0, 0);
+    border-radius: 3px;
+    outline: 5PX solid rgb(100, 2, 2);
+    background-color: rgb(46, 46, 46);
+    color: white;
+    font-family: arial;
+    text-align: center;
+
+}
+.itemimg4 {
+    border: 5px solid rgb(255, 0, 0);
+    border-radius: 3px;
+    outline: 5PX solid rgb(100, 2, 2);
+    background-color: rgb(46, 46, 46);
+    color: white;
+    font-family: arial;
+    text-align: center;
+
+}
+.itemimg5 {
+    border: 5px solid rgb(255, 0, 0);
+    border-radius: 3px;
+    outline: 5PX solid rgb(100, 2, 2);
+    background-color: rgb(46, 46, 46);
+    color: white;
+    font-family: arial;
+    text-align: center;
+
+}
+.itemimg6 {
+    border: 5px solid rgb(255, 0, 0);
+    border-radius: 3px;
+    outline: 5PX solid rgb(100, 2, 2);
+    background-color: rgb(46, 46, 46);
+    color: white;
+    font-family: arial;
+    text-align: center;
+}
+.escrita {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 300px;
+}
